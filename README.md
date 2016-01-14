@@ -27,10 +27,11 @@ IMPORTANT: The Plugin onlys works, when you don't ignore the M2E-Connector for m
 
 ## Installation
 
-Eclipse-Marketplace:
+### Eclipse-Marketplace:
 
+***This is not currently working!***
 http://marketplace.eclipse.org/content/gwt-m2e-connector
 
-Updatesite:
+### Update site:
 
-https://gwt-m2e.googlecode.com/git/updateSite/ 
+https://github.com/levigo/gwt-m2e/raw/master/updateSite/
