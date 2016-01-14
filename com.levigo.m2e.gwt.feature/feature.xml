@@ -2,7 +2,7 @@
 <feature
       id="com.levigo.m2e.gwt.feature"
       label="GWT M2E Connector"
-      version="1.0.0.2"
+      version="1.0.0.3"
       provider-name="levigo"
       plugin="com.levigo.m2e.gwt">
 
@@ -27,7 +27,7 @@
          id="com.levigo.m2e.gwt"
          download-size="0"
          install-size="0"
-         version="1.0.0.2"
+         version="1.0.0.3"
          unpack="false"/>
 
 </feature>
