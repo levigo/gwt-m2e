@@ -29,7 +29,6 @@ IMPORTANT: The Plugin onlys works, when you don't ignore the M2E-Connector for m
 
 ### Eclipse-Marketplace:
 
-***This is not currently working!***
 http://marketplace.eclipse.org/content/gwt-m2e-connector
 
 ### Update site:
