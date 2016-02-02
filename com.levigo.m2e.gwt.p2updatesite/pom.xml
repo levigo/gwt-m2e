@@ -7,7 +7,7 @@
 		<relativePath>../pom.xml</relativePath>
 		<groupId>com.levigo.m2e.gwt</groupId>
 		<artifactId>com.levigo.m2e.gwt.parent</artifactId>
-		<version>1.0.0.3</version>
+		<version>1.0.0.4</version>
 	</parent>
 
 	<artifactId>com.levigo.m2e.gwt.p2updatesite</artifactId>

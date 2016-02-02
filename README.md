@@ -3,7 +3,7 @@
 Manages Supersource and Resource Folders for GWT-Projects.
 This is a GitHub-export of https://code.google.com/p/gwt-m2e/ which was once maintained by Stafan Wokusch.
 
-The current version 1.0.0.3 supports m2e 1.7 and thus eclipse Mars.
+The current version 1.0.0.4 supports m2e 1.7 and thus eclipse Mars.
 
 ## Features
 
@@ -34,3 +34,7 @@ http://marketplace.eclipse.org/content/gwt-m2e-connector
 ### Update site:
 
 https://github.com/levigo/gwt-m2e/raw/master/updateSite/
+
+## Changes
+
+* 1.0.0.4: improved super-source handling
