@@ -7,7 +7,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 		<relativePath>../pom.xml</relativePath>
 		<groupId>com.levigo.m2e.gwt</groupId>
 		<artifactId>com.levigo.m2e.gwt.parent</artifactId>
-		<version>1.0.0.3</version>
+		<version>1.0.0.4</version>
 	</parent>
 
 	<artifactId>com.levigo.m2e.gwt</artifactId>
