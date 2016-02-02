@@ -67,6 +67,7 @@ public class GwtPluginConfigurator extends AbstractProjectConfigurator implement
       resource = javaProject.getPath().append(resource);
       for (IClasspathEntryDescriptor e : classpath.getEntryDescriptors())
         if (e.getPath().equals(resource)) {
+          LOGGER.info("Clearing exclusion patterns for resource folder " + e.getPath());
           e.setExclusionPatterns(new IPath[]{});
         }
     }

@@ -5,7 +5,7 @@
 	<groupId>com.levigo.m2e.gwt</groupId>
 	<artifactId>com.levigo.m2e.gwt.parent</artifactId>
 	<name>GWT-Connector for M2E - Parent</name>
-	<version>1.0.0.4</version>
+	<version>1.0.0.5</version>
 	<packaging>pom</packaging>
 	<modules>
 		<module>com.levigo.m2e.gwt</module>

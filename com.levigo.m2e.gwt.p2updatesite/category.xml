@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.levigo.m2e.gwt.feature_1.0.0.4.jar" id="com.levigo.m2e.gwt.feature" version="1.0.0.4">
+   <feature url="features/com.levigo.m2e.gwt.feature_1.0.0.5.jar" id="com.levigo.m2e.gwt.feature" version="1.0.0.5">
       <category name="m2e-gwt"/>
    </feature>
    <category-def name="m2e-gwt" label="GWT-Connnector for M2E"/>
