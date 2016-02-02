@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: m2e connector for gwt
 Bundle-SymbolicName: com.levigo.m2e.gwt;singleton:=true
-Bundle-Version: 1.0.0.4
+Bundle-Version: 1.0.0.5
 Bundle-Vendor: levigo
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6,
  JavaSE-1.7
