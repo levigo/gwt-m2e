@@ -39,3 +39,4 @@ https://github.com/levigo/gwt-m2e/raw/master/updateSite/
 
 * 1.0.0.4: improved super-source handling
 * 1.0.0.5: improved logging
+* 1.0.0.6: support for Eclipse Neon
